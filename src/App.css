@@ -1,0 +1,13 @@
+a{
+  text-decoration: none;
+}
+
+a.selected{
+  text-decoration: overline;
+}
+
+li.mainMenu{
+  text-decoration: none;
+  display: inline-block;
+  margin: 15px;
+}
